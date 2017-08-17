@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Handle state changes with redux",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "name": "hey",
@@ -22,7 +22,7 @@
     },
     {
       "name": "new todo",
-      "isComplete": false,
+      "isComplete": true,
       "id": 5
     },
     {
