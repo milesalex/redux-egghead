@@ -17,7 +17,7 @@
     },
     {
       "name": "hey",
-      "isComplete": false,
+      "isComplete": true,
       "id": 4
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "name": "hey",
-      "isComplete": false,
+      "isComplete": true,
       "id": 7
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "hey this",
-      "isComplete": false,
+      "isComplete": true,
       "id": 9
     },
     {
